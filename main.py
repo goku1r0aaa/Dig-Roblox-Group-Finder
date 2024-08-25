@@ -89,7 +89,7 @@ def check_group_status(batch_group_ids, webhook_url, proxy, lock, count_queue, m
             message = f"Group ID: {group_id} status is unknown."
 
         print(message)
-        time.sleep(0.1)
+        time.sleep(0.01)
 
 def stat_updater(count_queue):
     count_cache = {}
