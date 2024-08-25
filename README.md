@@ -21,7 +21,10 @@ You can install the required libraries using pip:
 ```bash
 pip install requests pyfiglet
 
-## Credits
+```
+````
+  Credits
 © Digjhow69
 - Made with chat gpt in tech class in 20 minutes 🔥
 - My contact on discord:Digjhow69
+```
