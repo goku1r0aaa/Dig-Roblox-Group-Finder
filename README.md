@@ -27,4 +27,3 @@ pip install requests pyfiglet
 © Digjhow69
 - Made with chat gpt in tech class in 20 minutes 🔥
 - My contact on discord:Digjhow69
-```
