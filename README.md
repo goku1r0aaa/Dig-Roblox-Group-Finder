@@ -2,7 +2,7 @@
 
 Dig Finder is a Python script for scanning Roblox groups to identify "ownerless" groups. The script uses the Roblox APIs to check group statuses and sends notifications via a webhook for groups that are ownerless and allow public entry.
 
-https://prnt.sc/--GEbn7D6nKp
+![Screenshot_19](https://github.com/user-attachments/assets/bfcd6392-24df-4c1e-ba4a-29799820e4de)
 
 ## Features
 
