@@ -29,3 +29,4 @@ pip install requests pyfiglet
 © Digjhow69
 - Made with chat gpt in tech class in 20 minutes 🔥
 - My contact on discord:Digjhow69
+- The stat updater is made by the novak or h0nda idk i jsut stole from mcgroups
