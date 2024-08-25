@@ -83,9 +83,10 @@ def check_group_status(batch_group_ids, webhook_url, proxy, lock, count_queue, m
                 send_webhook_message(webhook_url, f"Group https://roblox.com/groups/{group_id} is ownerless and has public entry allowed.")
             else:
                 print(f"Group ID: {group_id} is ownerless but public entry is not allowed.")
+        elif status == 'owned':
+            print(f"Group ID: {group_id} is owned.")
         else:
-            time.sleep(0.01)
-            print(f"Group ID: {group_id} is owned or locked.")
+            print(f"Group ID: {group_id} status is unknown.")
 
 def stat_updater(count_queue):
     count_cache = {}
